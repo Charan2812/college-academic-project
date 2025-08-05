@@ -1,0 +1,38 @@
+/* General Layout */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h2, h3 {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Card Hover */
+.card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+}
+
+/* Buttons */
+.btn-primary, .btn-danger, .btn-success {
+    border-radius: 10px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+/* Table Styling */
+.table th {
+    background-color: #343a40 !important;
+    color: white;
+}
+
+/* Custom alert */
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+}
