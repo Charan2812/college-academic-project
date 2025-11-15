@@ -58,24 +58,9 @@ Install XAMPP
 Move the project folder into:
 
 xampp/htdocs/
-
-
-Open phpMyAdmin → create database:
-
-## crime_reporting
-
-
-Import the SQL file
-
-Start Apache & MySQL
-
-Run the project:
-
-http://localhost/crime_reporting/
-
 ## 📸 Screenshots
 
-All UI screenshots () are included in the project documentation.
+All UI screenshots (https://github.com/Charan2812/college-academic-project/blob/main/crime_reporting/assets/images/banner.jpg) are included in the project documentation.
 
 ## 🔒 Security Highlights
 
