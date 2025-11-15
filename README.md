@@ -1,4 +1,7 @@
 ## 🛡️ Online Crime Reporting System – FIR & CSR Management
+## Project Title
+
+# Online Crime Reporting- Web application for Crime Report
 
 A web-based crime reporting platform that enables citizens, police, and administrators to manage FIRs, CSRs, emergency alerts, and crime records in an efficient and transparent digital environment.
 Built as part of an MCA academic project.
