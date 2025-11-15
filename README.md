@@ -62,9 +62,7 @@ xampp/htdocs/
 
 ![All UI screenshots](https://github.com/Charan2812/college-academic-project/blob/main/crime_reporting/assets/images/banner.jpg) are included in the project documentation.
 ### 📄 Project Documentation  
-You can view the complete documentation here: ![Download Project Documentation (PDF)](./docs/Crime_Reporting_Documentation.pdf)
-)
-
+![Project documetation](https://github.com/Charan2812/college-academic-project/blob/main/Crime_Reporting_documentation.pdf)
 
 ## 🔒 Security Highlights
 
