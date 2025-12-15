@@ -1,4 +1,4 @@
-## 🛡️ Online Crime Reporting System – FIR & CSR Management
+## Online Crime Reporting System – FIR & CSR Management
 ## Project Title
 
 # Online Crime Reporting- Web application for Crime Report
@@ -6,8 +6,8 @@
 A web-based crime reporting platform that enables citizens, police, and administrators to manage FIRs, CSRs, emergency alerts, and crime records in an efficient and transparent digital environment.
 Built as part of an MCA academic project.
 
-## 🚀 Features
-## 👤 User (Citizen)
+## Features
+## User (Citizen)
 
 Register & Login
 
@@ -21,7 +21,7 @@ Send SOS emergency alerts
 
 Update live location
 
-## 👮 Police Officer
+## Police Officer
 
 Login
 
@@ -33,7 +33,7 @@ Receive SOS alerts
 
 View released criminal records
 
-## 🛠️ Administrator
+## Administrator
 
 Manage categories, departments, cities & towns
 
@@ -47,27 +47,27 @@ View all system reports
 
 Monitor SOS alerts
 
-## 🧱 Tech Stack
+## Tech Stack
 Layer	Technology
 Frontend	HTML5, CSS3, Bootstrap, AngularJS
 Backend	PHP 8.1
 Database	MySQL
 Server	Apache (XAMPP)
 PDF Generation	FPDF PHP Library
-## 📥 Installation Guide
+## Installation Guide
 
 Install XAMPP
 
 Move the project folder into:
 
 xampp/htdocs/
-## 📸 Screenshots
+## Screenshots
 
 ![All UI screenshots](https://github.com/Charan2812/college-academic-project/blob/main/crime_reporting/assets/images/banner.jpg)
-### 📄 Project Documentation  
+### Project Documentation  
 ![Project documetation](https://github.com/Charan2812/college-academic-project/blob/main/Crime_Reporting_documentation.pdf)
 
-## 🔒 Security Highlights
+## Security Highlights
 
 Password hashing
 
@@ -77,7 +77,7 @@ Session-based role authentication
 
 Secure PDF report handling
 
-## 🌟 Future Enhancements
+## Future Enhancements
 
 Mobile app (Android/iOS)
 
@@ -91,10 +91,10 @@ OTP / 2FA authentication
 
 Cloud deployment
 
-📜 Project Purpose
+## Project Purpose
 
 This system was developed as part of the Master of Computer Applications (2023–2025) curriculum to demonstrate full-stack development, secure reporting workflows, and real-world case management automation.
 
-❤️ Acknowledgment
+## Acknowledgment
 
 Designed & developed with dedication as a college academic project.
