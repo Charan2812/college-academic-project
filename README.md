@@ -66,10 +66,13 @@ Install XAMPP
 Move the project folder into:
 
 xampp/htdocs/
+
 # Screenshots
 
 ![All UI screenshots](https://github.com/Charan2812/college-academic-project/blob/main/crime_reporting/assets/images/banner.jpg)
+
 ### Project Documentation  
+
 ![Project documetation](https://github.com/Charan2812/college-academic-project/blob/main/Crime_Reporting_documentation.pdf)
 
 ## Security Highlights
