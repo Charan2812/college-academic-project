@@ -1,13 +1,18 @@
 # Online Crime Reporting System – FIR & CSR Management
 ## Project Title
 
-## Online Crime Reporting- Web application for Crime Report
+### Online Crime Reporting- Web application for Crime Report
 
-A web-based crime reporting platform that enables citizens, police, and administrators to manage FIRs, CSRs, emergency alerts, and crime records in an efficient and transparent digital environment.
-Built as part of an MCA academic project.
+## Description
+
+The Online Crime Reporting System is a web-based platform that enables citizens to digitally file FIR and CSR complaints, track case status, and send SOS alerts with live location. The system improves transparency and efficiency in crime reporting by replacing manual processes with a secure online workflow.
+
+Citizens can register complaints, monitor progress, and raise emergency alerts, while police officers manage assigned cases, update statuses, and receive SOS notifications. Administrators oversee departments, police users, complaint assignments, and system reports to ensure smooth and secure operations.
+
+This project demonstrates full-stack web development skills, secure authentication, role-based access control, and real-world crime management automation using HTML5, CSS3, Bootstrap, PHP, MySQL, and AngularJS.
 
 ## Features
-## User (Citizen)
+**User (Citizen)**
 
 Register & Login
 
@@ -21,7 +26,7 @@ Send SOS emergency alerts
 
 Update live location
 
-## Police Officer
+**Police Officer**
 
 Login
 
@@ -33,7 +38,7 @@ Receive SOS alerts
 
 View released criminal records
 
-## Administrator
+**Administrator**
 
 Manage categories, departments, cities & towns
 
